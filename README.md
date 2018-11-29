@@ -1,1 +1,2 @@
-# Rqmz-Bot
+# rqmz
+Rqmz Bot
